@@ -85,7 +85,7 @@ PHP와 MySQL을 활용하여 구현한 **음원 추천 커뮤니티 웹사이트
 ![음원 추천 게시판](images/list.png)
 ![글쓰기 폼](images/write.png)
 ![게시글 상세 화면](images/view.png)
-![댓글 폼](images/recommend.png)![](images/write2.png)
+![댓글 폼](images/recommend.png)
 ![인기 게시판](images/popular.png)
 
 ---
